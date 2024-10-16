@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Hello and welcome to my GitHub profile! I’m Joshua Peguero, a college freshman with a keen interest in machine learning and some experience in coding with Python. As someone who’s just starting my journey in higher education, I’m deeply excited about exploring new technologies, tackling coding challenges, and diving into the world of machine learning.
 
 *   🌍  I'm based in NYC
-*   ✉️  You can contact me at [peguerojoshua67@gmail.com](mailto:peguerojoshua67@gmail.com)
   ## Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
