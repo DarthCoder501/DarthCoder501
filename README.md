@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, React, MongoDB, and Node.js**
 
-- 📝 I regularly write articles on [machine learning concepts and projects](machine learning concepts and projects)
+- 📝 I regularly write articles on machine learning concepts and projects
 
 - 💬 Ask me about **anything AI/ML related!**
 
