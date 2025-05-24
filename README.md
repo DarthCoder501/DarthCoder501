@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
 <h3 align="center">A college freshman with a passion for AI/ML</h3>
 
-- 🔭 I’m currently working on [Nexora](https://github.com/DarthCoder501/nexora)
+- 🔭 I’m currently working on [NoteBeats](https://github.com/Sajidcodez/NoteBeats)
 
-- 🌱 I’m currently learning **Next.js, React, MongoDB, and Node.js**
+- 🌱 I’m currently learning **Docker, Speech Recognition, Computer Vision, and NLP**
 
-- 📝 I regularly write articles on machine learning concepts and projects
+- 📝 I write articles on machine learning concepts and projects
 
 - 💬 Ask me about **anything AI/ML related!**
 
 - 📫 How to reach me **peguerojoshua67@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dfLapTKtDxsXv-GuXIKFtyUzXe-5lw4q/view?usp=sharing](https://drive.google.com/file/d/1dfLapTKtDxsXv-GuXIKFtyUzXe-5lw4q/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dfLapTKtDxsXv-GuXIKFtyUzXe-5lw4q/view?usp=sharing](https://drive.google.com/file/d/1qRxdnJBRmhfPcp-WEBDIgDrIoUXrKGyj/view?usp=sharing)
 
 - ⚡ Fun fact **I love playing volleyball, watching anime(especially One Piece), and going to the gym.**
 
