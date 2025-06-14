@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
-<h3 align="center">A college freshman with a passion for AI/ML</h3>
+<h3 align="center">A rising college sophomore with a passion for AI/ML</h3>
 
-- 🔭 I’m currently working on [NoteBeats](https://github.com/Sajidcodez/NoteBeats)
+- 🔭 I’m currently working on [NoteBeats](https://github.com/Sajidcodez/NoteBeats) and [ApplyAI](https://github.com/DarthCoder501/applyai)
 
-- 🌱 I’m currently learning **Docker, Speech Recognition, Computer Vision, and NLP**
+- 🌱 I’m currently learning **Docker, Speech Recognition, Computer Vision, NLP, MCP, & AWS**
 
 - 📝 I write articles on machine learning concepts and projects
 
