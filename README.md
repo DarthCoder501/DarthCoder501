@@ -36,7 +36,7 @@
   <tr>
     <td width="33%" align="center" valign="top">
       <h3><a href="https://github.com/DarthCoder501/theOneRec">📺 The One Rec</a></h3>
-      <img src="https://media.giphy.com/media/wzWxTUiXRQDYc/giphy.gif" width="100%" height="150" style="object-fit: cover; border-radius: 8px;" alt="Anime GIF"/>
+      <img src="https://media.giphy.com/media/pdL5hvBOCk2bpH45uc/giphy.gif" width="100%" height="150" style="object-fit: cover; border-radius: 8px;" alt="Anime Hacking GIF"/>
       <br/><br/>
       <p>A personalized anime recommendation service for 11,000+ titles. It uses BGE embeddings and a cross-encoder reranker to find your next show.</p>
       <br/>
@@ -44,7 +44,7 @@
     </td>
     <td width="33%" align="center" valign="top">
       <h3><a href="https://github.com/DarthCoder501/rotation">✨ Rotation</a></h3>
-      <img src="https://media.giphy.com/media/3oKIPcfX631f4N6nEw/giphy.gif" width="100%" height="150" style="object-fit: cover; border-radius: 8px;" alt="Aura GIF"/>
+      <img src="https://media.giphy.com/media/54YeNfe1Xwu5RxuVoa/giphy.gif" width="100%" height="150" style="object-fit: cover; border-radius: 8px;" alt="Fragrance Ad GIF"/>
       <br/><br/>
       <p>A daily fragrance recommendation app. It ranks your collection using client-side SGD, 32-dimensional taste vectors, and live weather signals.</p>
       <br/>
@@ -52,7 +52,7 @@
     </td>
     <td width="33%" align="center" valign="top">
       <h3><a href="https://github.com/DarthCoder501/JohnnyCheck">🎒 JohnnyCheck</a></h3>
-      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="150" style="object-fit: cover; border-radius: 8px;" alt="School GIF"/>
+      <img src="https://media.giphy.com/media/26AHOOLnE42viCR6E/giphy.gif" width="100%" height="150" style="object-fit: cover; border-radius: 8px;" alt="Typing Fast GIF"/>
       <br/><br/>
       <p>A Chrome extension and serverless backend that puts Rate My Professors ratings directly into the St. John's University registration grid.</p>
       <br/>
